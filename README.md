@@ -4,6 +4,12 @@ Projeto sendo desenvolvido como trabalho final da disciplina de Programação Co
 
 ---
 
+# !DISCLAIMER!
+
+A maioria do código implementado não é de autoria dos contribuidores,e sim entrega dos professores. Reflete nosso trabalho os trechos identificados com comentários assinados.
+
+---
+
 ## Objetivos de Aprendizado
 
 - Compreender e aplicar conceitos de programação concorrente em uma aplicação previamente desenvolvida.
